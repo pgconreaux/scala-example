@@ -1,1 +1,1 @@
-# scala-exam
+# scala-example
