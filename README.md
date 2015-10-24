@@ -1,1 +1,1 @@
-# scala-progfun
+# scala-exam
